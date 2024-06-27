@@ -1,6 +1,7 @@
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import HomeIcon from '@mui/icons-material/Home';
 import ChildCareIcon from '@mui/icons-material/ChildCare';
+import PetsIcon from '@mui/icons-material/Pets';
 import CodeIcon from '@mui/icons-material/Code';
 import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
@@ -12,15 +13,16 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+import EmojiNatureIcon from '@mui/icons-material/EmojiNature';
 
-export const logo = 'https://mail.google.com/mail/u/0?ui=2&ik=b5bd09e8c8&attid=0.1&permmsgid=msg-f:1802848249492898080&th=190500ee56f58120&view=att&disp=safe&realattid=190500e97a24e44b0761';
+export const logo = 'https://lh3.googleusercontent.com/a-/ALV-UjWVheMbjl5B4Fuyy_4toYM4SBRLAexnNsPx6OzA2_Q2vkpuVzY=s80-p';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'Cocomelon', icon: <ChildCareIcon />, },
+  { name: 'Bonbon Indonesia', icon: <PetsIcon />, },
+  { name: 'Hogi! Pinkfong', icon: <EmojiNatureIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
