@@ -14,8 +14,9 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import EmojiNatureIcon from '@mui/icons-material/EmojiNature';
+import Logo from '../assets/logo.png'
 
-export const logo = 'https://lh3.googleusercontent.com/a-/ALV-UjWVheMbjl5B4Fuyy_4toYM4SBRLAexnNsPx6OzA2_Q2vkpuVzY=s80-p';
+export const logo = Logo
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
